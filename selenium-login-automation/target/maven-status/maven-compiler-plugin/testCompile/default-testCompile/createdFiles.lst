@@ -1,8 +1,0 @@
-com\automation\tests\BaseTest.class
-com\automation\utils\DriverFactory.class
-com\automation\pages\DashboardPage.class
-com\automation\pages\LoginPage.class
-com\automation\pages\BasePage.class
-com\automation\utils\ConfigReader.class
-com\automation\tests\LoginTest.class
-com\automation\utils\WaitHelper.class
