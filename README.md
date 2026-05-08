@@ -46,10 +46,10 @@ selenium-login-automation/
 
 ## Como Executar
 
-### Pré-requisitos
+## Pré-requisitos
 - Java 17+
 - Maven 3.8+
-- Google Chrome instalado (o WebDriverManager baixa o ChromeDriver automaticamente)
+- Conexão com internet (os testes consomem a API pública ReqRes)
 
 ### Todos os testes
 ```bash
